@@ -1,1 +1,46 @@
-# Arvy_Repositoriess
+<p align="center">
+  <img src=""/>
+</p>
+<p align="center">
+💜 Hi, I'm Arvy! ♡
+  </p>
+
+
+### 🎓 BSIT – Mobile & Web Applications
+**National University - Clark**
+
+*Welcome to my portfolio!*
+
+</div>
+
+---
+
+## 🌸 About Me
+
+Hi! I'm **Arvy**, a student who want to learn about technology, programming, and building creative projects. This is where I share what I'm learning and the projects I've made along the way.
+
+## 💻 Programming Languages & Tools
+
+- JavaScript
+- Git & GitHub
+
+## 📁 My Projects
+
+### 🌷 Midterm Project
+[View Project](https://github.com/YOUR-USERNAME/YOUR-MIDTERM-REPO)
+
+### ✨ Final Project
+
+[View Project](https://github.com/YOUR-USERNAME/YOUR-FINAL-REPO)
+
+## 🎀 Fun Facts
+
+- 🌱 I'm always happy and smile.
+- 🎨 I like Bread and Pastries.
+- 💡 I enjoy creative projects and design.
+
+## 💌 Connect With Me
+
+- 🐙 **GitHub:** [Arvy Marimla](https://coldyarvy.github.io/Arvy_Repositories/)
+- ✉️ **Email:** marimlaab@students.nu-clark.edu.ph
+
