@@ -22,7 +22,7 @@ Hi! I'm **Arvy**, a student who want to learn about technology, programming, and
 ## 💻 Programming Languages & Tools
 
 - JavaScript
-- Git & GitHub
+- GitHub
 
 ## 📁 My Projects
 
