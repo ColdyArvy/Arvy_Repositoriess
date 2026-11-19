@@ -27,7 +27,7 @@ Hi! I'm **Arvy**, a student who want to learn about technology, programming, and
 ## 📁 My Projects
 
 ### 🌷 Midterm Project
-[LabTask #1](https://github.com/ColdyArvy/Arvy_Repositoriess/blob/80123dad61fd6a8657dae21eebbe163374e58986/MIDTERM/LabTask1_Marimla.pdf)
+[MidTerm](https://github.com/ColdyArvy/Arvy_Repositoriess/tree/3786ff9f195abb0ef8ba076ec7b0dd0684e86bba/MIDTERM)
 
 ### ✨ Final Project
 
