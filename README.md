@@ -27,11 +27,11 @@ Hi! I'm **Arvy**, a student who want to learn about technology, programming, and
 ## 📁 My Projects
 
 ### 🌷 Midterm Project
-[MidTerm](https://github.com/ColdyArvy/Arvy_Repositoriess/tree/3786ff9f195abb0ef8ba076ec7b0dd0684e86bba/MIDTERM)
+[🩷My MidTerms Repositories](https://github.com/ColdyArvy/Arvy_Repositoriess/tree/3786ff9f195abb0ef8ba076ec7b0dd0684e86bba/MIDTERM)
 
 ### ✨ Final Project
 
-[View Project](https://github.com/YOUR-USERNAME/YOUR-FINAL-REPO)
+[💜My Finals Repositories](https://github.com/ColdyArvy/Arvy_Repositoriess/tree/b1e01c076c2ef53103de763df095a34cbed99e50/FINAL)
 
 ## 🎀 Fun Facts
 
